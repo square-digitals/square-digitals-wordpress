@@ -1,0 +1,17 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Build artifacts
+*.min.css.map
+*.min.js.map
